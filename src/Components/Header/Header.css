@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+}
+
+.header .logo {
+    margin-bottom: 20px;
+}
+
+.header .logo img {
+    height: 80px;
+}
+
+.main-menu {
+    background-color: black;
+}
+
+.main-menu ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.main-menu ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px 20px;
+    display: block;
+ }
+
+.main-menu ul li a:hover {
+     background-color: gray;
+ }
